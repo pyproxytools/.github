@@ -1,2 +1,0 @@
-# .github
-Pyproxy Tools profile
